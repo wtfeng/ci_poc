@@ -3,6 +3,16 @@ package model;
 public class User {
     String name;
     Enum sex;
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    int age;
     public User(){}
 
     public User(String userName) {
