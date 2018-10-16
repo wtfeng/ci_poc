@@ -1,4 +1,4 @@
-package model;
+package com.fwd.gz.poc.ci.model;
 
 public class User {
     String name;

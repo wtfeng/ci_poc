@@ -1,7 +1,7 @@
 package com.neo.controller;
 
 import com.neo.remote.HelloRemote;
-import model.User;
+import com.fwd.gz.poc.ci.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
